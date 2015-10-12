@@ -46,7 +46,7 @@ Once the learning finished, the program will print out the Q-matrix:
 ```
 
 ## the movement (using Q matrix)
-Then, the program will print out each step of movement (it will chose the best move according to the Q-matrix ):
+Then, the program will print out each step of the movement (it will chose the best move according to the Q-matrix ):
 ```
 No. 1
 |  -  |     |     |    |     |     |     |
@@ -77,30 +77,9 @@ No. 7
 |     |     | --- | -> |     |     | --- |
 |  -  |     |-----|    |     |     |-----|
 7 moves!
-your state(a,b,c): 1,0,2
-No. 1
-|     |     |     |    |     |     |     |
-|     |     |     | -> |  -  |     |     |
-| --- |-----|  -  |    | --- |-----|     |
-No. 2
-|     |     |     |    |     |     |     |
-|  -  |     |     | -> |  -  |     |     |
-| --- |-----|     |    | --- |     |-----|
-No. 3
-|     |     |     |    |     |     |     |
-|  -  |     |     | -> |     |     |     |
-| --- |     |-----|    | --- |  -  |-----|
-No. 4
-|     |     |     |    |     |     |     |
-|     |     |     | -> |     |     | --- |
-| --- |  -  |-----|    |     |  -  |-----|
-No. 5
-|     |     |     |    |     |     |  -  |
-|     |     | --- | -> |     |     | --- |
-|     |  -  |-----|    |     |     |-----|
 ```
 ## Solve other initial state
-At last, the program will ask you to input other initial state:
+At last, the program will ask you to input another initial states:
 ```
 your state(a,b,c):
 ```
