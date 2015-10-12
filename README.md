@@ -14,7 +14,7 @@
 # result
 
 ## the __Q__ matrix
-After the learning finished, the program will print out the Q-matrix:
+Once the learning finished, the program will print out the Q-matrix:
 ```
    0  20  26   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
   20   0  26   0   0   0   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
